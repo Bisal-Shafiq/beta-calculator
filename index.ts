@@ -26,3 +26,5 @@ const answer = await inquirer.prompt([
   } else {
       console.log("Please Selest Valid Operator");
   }
+
+  console.log("The End")
